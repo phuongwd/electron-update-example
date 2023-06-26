@@ -1,1 +1,1 @@
-# electron-update-example
+# Desktop App - Releases
